@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "On The West Coastline（feat. ぷにぷに電機）",
+  "base_artist": "Dirty Androids",
+  "createdAt": "2026-02-13T12:09:48.850322Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On The West Coastline feat. ぷにぷに電機",
+      "artist": "MEGAREX",
+      "has_synced": true,
+      "path": "select/01_On_The_West_Coastline_feat._ぷにぷに電機_MEGAREX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On The West Coastline (feat. ぷにぷに電機)",
+      "artist": "Dirty Androids",
+      "has_synced": true,
+      "path": "select/02_On_The_West_Coastline_(feat._ぷにぷに電機)_Dirty_Androids.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On The West Coastline (feat. ぷにぷに電機)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/03_On_The_West_Coastline_(feat._ぷにぷに電機)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On The West Coastline Feat. Punipunidenki",
+      "artist": "Dirty Androids",
+      "has_synced": true,
+      "path": "select/04_On_The_West_Coastline_Feat._Punipunidenki_Dirty_Androids.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On The West Coastline (feat. Punipuni Denki)",
+      "artist": "Dirty Androids",
+      "has_synced": false,
+      "path": "select/05_On_The_West_Coastline_(feat._Punipuni_Denki)_Dirty_Androids.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "On The West Coastline (feat. ぷにぷに電機)",
+      "artist": "Dirty Androids; Punipuni Denki",
+      "has_synced": true,
+      "path": "select/06_On_The_West_Coastline_(feat._ぷにぷに電機)_Dirty_Androids;_Punipuni_Denki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "On The West Coastline (feat. ぷにぷに電機)",
+      "artist": "Dirty Androids",
+      "has_synced": false,
+      "path": "select/pl_01_On_The_West_Coastline_(feat._ぷにぷに電機)_Dirty_Androids.txt"
+    }
+  ]
+}
